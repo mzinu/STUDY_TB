@@ -1,5 +1,7 @@
 ## 태블로 스터디 1주차
 
+![Image](https://github.com/user-attachments/assets/43e79a3d-1cd4-4b65-803c-0859ef0c445e)
+
 ### 측정값과 차원
 
 - 측정값 
@@ -31,4 +33,11 @@
     - 아래 : 연속
         - DATATRUNC 함수로 분할
 
-![Image](https://github.com/user-attachments/assets/43e79a3d-1cd4-4b65-803c-0859ef0c445e)
+![Image](https://github.com/user-attachments/assets/c52fc97e-7fdd-412a-8d2b-bacb3b7b5918)
+![Image](https://github.com/user-attachments/assets/ffa8ab09-693d-4cb7-a3c6-4d3dbcc02d74)
+![Image](https://github.com/user-attachments/assets/d8fc22a7-b13b-4a38-9e5d-3f0d7cc943b6)
+![Image](https://github.com/user-attachments/assets/ea3272aa-780e-44f5-ae82-f296a6b4c3c8)
+![Image](https://github.com/user-attachments/assets/ac3cca29-a6ca-4ebd-b7e0-cf3333899fd7)
+![Image](https://github.com/user-attachments/assets/9cc09a82-5dee-4ce3-85be-9fd73580a67a)
+![Image](https://github.com/user-attachments/assets/3dee31cd-e28d-400e-b99b-ed31e43b6c3e)
+![Image](https://github.com/user-attachments/assets/74dd8fe9-8feb-4453-a427-ce5df2611ceb)
